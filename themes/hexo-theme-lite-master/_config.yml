@@ -27,8 +27,8 @@ background:
 
 menu:
   # Basic Menu
-  Home: true
-  Archives: true
+  首页: true
+  合集目录: true
   Categories: false
   Tags: false
 
