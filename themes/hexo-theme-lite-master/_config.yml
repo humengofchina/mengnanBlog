@@ -44,8 +44,8 @@ menu:
 menu_icons:
   enab: true
   # icon name docs: http://fontawesome.io/icons/
-  首页: fa-home
-  合集目录: fa-archive
+  Home: fa-home
+  Archives: fa-archive
   Categories: fa-bookmark
   Tags: fa-hashtag
   About: fa-smile-o
