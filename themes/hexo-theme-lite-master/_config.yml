@@ -42,10 +42,10 @@ menu:
   # About: /pages/about/index
 
 menu_icons:
-  enable: true
+  enab: true
   # icon name docs: http://fontawesome.io/icons/
-  Home: fa-home
-  Archives: fa-archive
+  首页: fa-home
+  合集目录: fa-archive
   Categories: fa-bookmark
   Tags: fa-hashtag
   About: fa-smile-o
