@@ -88,7 +88,7 @@ social:
   wechat: /static/images/weixin.jpg
   # Email link, reference to https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#E-mail_links
   email: mailto:286076062@qq.com
-  qq: 286076062
+  qq: /static/images/qq.jpg
 social_icons:
   enable: true
   # icon name docs: http://fontawesome.io/icons/
