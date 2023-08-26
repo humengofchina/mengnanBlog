@@ -30,7 +30,7 @@ menu:
   Home: true
   Archives: true
   Categories: false
-  Tags: false
+  Tags: true
 
   # Custom Menu
   # '/index' can be omitted
