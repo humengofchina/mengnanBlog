@@ -39,7 +39,7 @@ menu:
   # [X]  About: /about/index       (need '/pages' as prefix)
   # [O]  About: /pages/about/index (preferred)
   # [O]  About: /pages/about
-  # About: /pages/about/index
+  About: /pages/about/index
 
 menu_icons:
   enab: true
