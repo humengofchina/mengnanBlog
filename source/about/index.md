@@ -10,7 +10,7 @@ tags:
 这是我的第一篇博客文章，爱发电的猛男妙妙屋欢迎您！您可以按住ctrl D 快速收藏本网站！
 微信公众号名称：爱发电的猛男妙妙屋
 
-[mmexport1694247336599.jpg](https://postimg.cc/sB2jF8c9)
+[![mmexport1694247336599.jpg](https://i.postimg.cc/FKy7SXkq/mmexport1694247336599.jpg)](https://postimg.cc/sB2jF8c9)
 
 我将会在这里分享大学日常生活和阿里云盘的影视资源！
 还请大家多多支持分享！
