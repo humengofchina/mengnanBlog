@@ -10,7 +10,7 @@ tags:
 这是我的第一篇博客文章，爱发电的猛男妙妙屋欢迎您！您可以按住ctrl D 快速收藏本网站！
 微信公众号名称：爱发电的猛男妙妙屋
 
-![](https://kssh2thumb.xmssdn.micloud.mi.com/2/1595215017082/get_thumbnail?sig=0T9-_JSf6jnIHFvJtlJPldv1e8c&data=cLPBPrrbtuZUF_kHNF5toyQ-YfzPek3CQ4LrcUO0qMAYffQIDaZ-K4gQblv5GiKx6phQxeKI9oP4ROniLjJN2yeVetfkOYWuK9yhJaGqYO7YpFnyX5ny3JU6iQWD2ayy81GU0J_8r9F27W-fIBCJVotxYzbWF_u-DrbIBqubAxplbtz2e99ZAQhuVv-y6kubPwb-AYp59nfpT0uj961Ooq9OWFG1m_gX3zeXJks3cY2xc32JJSQgmT_ksBKAqsa_yFqSyt-Mt-oL_DPZTRl5_j9kfj4AuzEKfgXt2HE4etX5lBHjyEVQ4Vcg4LK0cDELiOqC4y5VwvE&ts=1694333814041&w=1080&h=1080&r=0&_cachekey=6d9b2cb7b5a78bc7ec5b7f195a6b2e8b)
+![]([mmexport1694247336599.jpg](https://postimg.cc/sB2jF8c9))
 
 我将会在这里分享大学日常生活和阿里云盘的影视资源！
 还请大家多多支持分享！
