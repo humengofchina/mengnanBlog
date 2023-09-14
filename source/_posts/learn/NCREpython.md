@@ -1,6 +1,7 @@
 ---
 title: 在学习、在更新…………
 date: 2023-09-13 12:01:58
+update: 2023-09-14 11:01:58
 tags:
 - 学校
 - python
@@ -79,13 +80,29 @@ print(random.sample([10, 20, 30, 40, 50], k=3))     # sample(pop, k)从pop类型
 
 12、d.item() 返回d字典的所有键值对
 
-13、
+13、python中根据实际参数的类型不同函数的传递方式可分为两种，分别为值传递和引用（地址）传递。不存在名称传递函数。
 
+   值传递：适用于不可变类型（字符串，数字，元祖）
+   引用（地址）传递：适用于实参类型，可变类型（列表，字典）
+14、字典的pop()方法是寻找字典中是否存在与第一个参数相同的键，存在即删除该键值对，并返回对应的值。
 
+15、insert()方法必须要有两个参数。
 
+16、d.get(key,default)根据键信息查找并返回值信息。
 
+17、zip（）函数是讲对象打包成元祖。
 
+18、turtle库：（脚注5，来自知乎）
 
+```Python
+# 没有turtlesize()函数
+shape()函数：用于设置绘图箭头的形状
+getscreen()函数：函数返回一个turtlescreen类的绘画对象，开启绘画。
+setup()函数：打开一个自定义大小的位置的画布。
+
+```
+
+19、
 
 
 
@@ -96,6 +113,5 @@ print(random.sample([10, 20, 30, 40, 50], k=3))     # sample(pop, k)从pop类型
 [^1]: [下班后的时间，决定了你的人生高度！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/42776218)
 [^2]: [format()方法的基本使用 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/60357679)
 [^3]: [Python format 格式化函数 | 菜鸟教程 (runoob.com)](https://www.runoob.com/python/att-string-format.html)
-
 [^4]: [[python--random库（纯干货教程） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/571870972)](https://blog.csdn.net/zhongguoren666/article/details/6682749)
-
+[^5]: [python绘图工具turtle库的使用详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/90767333)
