@@ -6,8 +6,8 @@ tags:
 - 可可英语
 - 电影
 ---
-<iframe height=498 width=510 src="https://k6.kekenet.com/Sound/2023/15/18283_608f7xmywg4ois.mp4">
-
+<!-- more -->
+<iframe src="https://k6.kekenet.com/Sound/2023/15/18283_608f7xmywg4ois.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
