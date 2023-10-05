@@ -29,7 +29,7 @@ menu:
   # Basic Menu
   Home: true
   Archives: true
-  Categories: false
+  Categories: true
   Tags: true
 
   # Custom Menu
