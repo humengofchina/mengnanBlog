@@ -11,7 +11,7 @@ tags:
 ---
 # 2023-7-2-MySQL数据库-库表记录的增删改查
 
-![](https://cdn.pixabay.com/photo/2013/11/28/10/36/road-220058_1280.jpg)
+![jpg](https://cdn.pixabay.com/photo/2013/11/28/10/36/road-220058_1280.jpg)
 
 <!-- more -->
 
